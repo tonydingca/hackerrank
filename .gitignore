@@ -1,0 +1,13 @@
+/bin/
+
+#Ignore eclipse file 
+.metadata/
+RemoteSystemsTempFiles/
+Servers/
+.classpath
+.project
+.settings/
+target/
+
+#npm directory
+node_modules/
